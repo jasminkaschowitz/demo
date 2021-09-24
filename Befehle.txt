@@ -1,0 +1,3 @@
+git int, Start
+git add
+git commit, bringt Daten auf Staging Area
