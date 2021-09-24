@@ -2,3 +2,4 @@ Freitag
 Samstag
 Sonntag
 Montag
+Dienstag
